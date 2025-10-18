@@ -1,0 +1,8 @@
+PURE UAT COSMOLOGICAL OPTIMIZATION RESULTS
+==================================================
+Optimal k_early: 0.95501
+Emergent Omega_Lambda: 0.69909
+Minimum chi-square: 53.706
+H0: 73.00 km/s/Mpc
+Omega_m: 0.315
+Omega_r: 9.22e-05
